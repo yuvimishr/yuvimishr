@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yuvraj</h1>
 <h3 align="center">A passionate developer, and AI ML enthusiast</h3>
 
-- 🔭 I’m currently working on **THING THAT ARE SHOWN**
+- 🔭 I’m currently working on **AI ML**
 
-- 💬 Ask me about **ai ml**
+- 💬 Ask me about **THINGS THAT ARE SHOWN**
 
 - 📫 How to reach me **yuvrajmishir@gmail.com**
 
