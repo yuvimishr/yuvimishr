@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuvraj</h1>
 <h3 align="center">A passionate developer, and AI ML enthusiast</h3>
 
-- 🔭 I’m currently working on **ml projects**
+- 🔭 I’m currently working on **THING THAT ARE SHOWN**
 
 - 💬 Ask me about **ai ml**
 
